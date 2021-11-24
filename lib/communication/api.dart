@@ -6,7 +6,7 @@ import 'dart:async';
 String url_server = "http://10.5.50.39:45455";
 String url_ = "";
 
-//sabcdefghixfsdfdsfdfdsfdsfsdfdsfdsf
+//OK
 class api_controller {
   Future<http.Response> createUser(String UserVal, String PassVal,
       String EmailVal, bool AdminRegister) async {
